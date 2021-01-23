@@ -1,0 +1,54 @@
+.general{
+    margin: auto;
+    padding: 1rem;
+    background-color: white;
+    width: 50%;
+    height: 20rem;
+    font-family: 'Yellowtail', cursive;
+}
+
+body{
+    background-color:gray;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+h1{
+    text-align: center;
+
+    
+}
+
+img{
+    margin-inline: -200%;
+    padding-top: 10%;
+    height: 70%;
+   
+}
+
+.Mid{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    padding: 15px;
+}
+
+p{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 35px;    
+}
+
+input{
+    margin-bottom: 15px;
+    border: none;
+    border-bottom: solid black;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
